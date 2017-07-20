@@ -7,7 +7,7 @@ Há milhares de bibliotecas JSON por todos os lados, e cada uma tem seus motivos
 - **Extremamente Simples**. Realizando somentes as operações mais simples. toJSON(), fromJSON().
 - **Flexibilidade**. Utilizando ou não as Annotations transformar os atributos em JSON.
 
-##Utilizando
+## Utilizando
 
 Nesta versão que se encontra. Suponha uma classe PESSOA, com atributos nome(String), idade(int). Você poderá transformar seus objetos em JSON fazendo:
 
@@ -95,7 +95,7 @@ public class main{
 }
 ```
 
-##Finalizando
+## Finalizando
 
 Esse projeto tem licença MIT, então poderá ser utilizado comercialmente e é aberto.
 
